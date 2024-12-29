@@ -6,7 +6,7 @@
 
 ## About Me  
 - 🔭 I’m currently working on **CodeWork Solutions**.
-- 🌱 I’m currently learning **Advanced React and Node.js**.
+- 🌱 I’m currently learning **AWS and Tensorflow**.
 - 👯 I’m looking to collaborate on **Frontend and Full-stack projects**.
 - 🤔 I’m looking for help with **building scalable frontend architectures**.
 - 💬 Ask me about **React, Node.js, Flutter, Firebase**.
