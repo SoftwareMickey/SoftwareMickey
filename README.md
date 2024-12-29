@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Titus Muli
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=appveyor&logoColor=white)](https://yourportfolio.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+<!--[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=appveyor&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) -->
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)](https://github.com/SoftwareMickey)
 
 ## About Me  
