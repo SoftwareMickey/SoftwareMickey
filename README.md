@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Frontend and Full-stack projects**.
 - 🤔 I’m looking for help with **building scalable frontend architectures**.
 - 💬 Ask me about **React, Node.js, Flutter, Firebase**.
-- 📫 How to reach me: **mulisoftwareengineer.com** (replace with your actual contact).
+- 📫 How to reach me: **mulisoftwareengineer.com**.
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: I love learning new technologies and working on innovative solutions!  
 
