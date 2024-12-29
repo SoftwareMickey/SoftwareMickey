@@ -19,7 +19,7 @@
 - **Tools:** Git, Docker, Postman, VS Code
 - **Platforms:** Firebase, Heroku, AWS  
 
-## 🚀 Projects  
+<!--## 🚀 Projects  
 - [**CodeWork Solutions**](https://github.com/SoftwareMickey/codework-solutions): A platform to enhance team collaboration in real-time.
 - [**Portfolio**](https://github.com/SoftwareMickey/portfolio): A showcase of my projects and skills.
 
