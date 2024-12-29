@@ -17,7 +17,11 @@
 ## 🔧 Skills  
 - **Languages:** React, Node.js, Flutter, Firebase
 - **Tools:** Git, Docker, Postman, VS Code
-- **Platforms:** Firebase, Heroku, AWS  
+- **Platforms:** Firebase, Heroku, AWS
+
+## 🏆 GitHub Trophy Collection
+  ![Your Trophy Collection](https://github-profile-trophy.vercel.app/?username=SoftwareMickey&theme=radical&no-frame=true&margin-w=10)
+
 
 <!--## 🚀 Projects  
 - [**CodeWork Solutions**](https://github.com/SoftwareMickey/codework-solutions): A platform to enhance team collaboration in real-time.
