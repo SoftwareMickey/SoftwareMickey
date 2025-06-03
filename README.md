@@ -19,6 +19,12 @@
 - **Tools:** Git, Docker, Postman, VS Code
 - **Platforms:** Firebase, Heroku, AWS
 
+### Stats
+
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoftwareMickey&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareMickey&layout=compact&theme=radical)
+
+
 ## 💻 Languages and Tools I've Used
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
