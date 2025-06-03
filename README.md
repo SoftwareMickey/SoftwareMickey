@@ -20,10 +20,8 @@
 - **Platforms:** Firebase, Heroku, AWS
 
 ### Stats
-
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoftwareMickey&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareMickey&layout=compact&theme=radical)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoftwareMickey&theme=dark)](https://git.io/streak-stats)
 
 ## 💻 Languages and Tools I've Used
 
