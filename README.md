@@ -5,7 +5,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)](https://github.com/SoftwareMickey)
 
 ## About Me  
-- 🔭 I’m currently working on **CodeWork Solutions**.
+- 🔭 I’m currently working at **CodeWork Solutions**.
 - 🌱 I’m currently learning **AWS and Tensorflow**.
 - 👯 I’m looking to collaborate on **Frontend and Full-stack projects**.
 - 🤔 I’m looking for help with **building scalable frontend architectures**.
