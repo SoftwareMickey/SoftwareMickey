@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Titus Muli
+## Hi there 👋, I'm Raven
 
 <!--[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=appveyor&logoColor=white)](https://yourportfolio.com)  
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) -->
@@ -6,7 +6,6 @@
 
 ## About Me  
 - 🔭 I’m currently working at **CodeWork Solutions**.
-- 🌱 I’m currently learning **AWS and Tensorflow**.
 - 👯 I’m looking to collaborate on **Frontend and Full-stack projects**.
 - 🤔 I’m looking for help with **building scalable frontend architectures**.
 - 💬 Ask me about **React, Node.js, Flutter, Firebase**.
