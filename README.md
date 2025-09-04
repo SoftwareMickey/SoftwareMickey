@@ -7,8 +7,8 @@
 ## About Me  
 - 🔭 I’m currently working at **CodeWork Solutions**.
 - 👯 I’m looking to collaborate on **Frontend and Full-stack projects**.
-- 🤔 I’m looking for help with **building scalable frontend architectures**.
-- 💬 Ask me about **React, Node.js, Flutter, Firebase**.
+- 🤔 I’m looking for help with **building scalable architectures**.
+- 💬 Ask me about **React, Node.js, Rust, Go, Flutter, Firebase**.
 - 📫 How to reach me: **mulisoftwareengineer.com**.
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: I love learning new technologies and working on innovative solutions!  
