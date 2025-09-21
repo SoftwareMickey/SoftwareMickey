@@ -5,11 +5,9 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)](https://github.com/SoftwareMickey)
 
 ## About Me  
-- 🔭 I’m currently working at **CodeWork Solutions**.
 - 👯 I’m looking to collaborate on **Frontend and Full-stack projects**.
 - 🤔 I’m looking for help with **building scalable architectures**.
 - 💬 Ask me about **React, Node.js, Rust, Go, Flutter, Firebase**.
-- 📫 How to reach me: **mulisoftwareengineer.com**.
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: I love learning new technologies and working on innovative solutions!  
 
